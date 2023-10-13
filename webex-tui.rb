@@ -9,6 +9,6 @@ class WebexTui < Formula
 
   def install
     system "cargo", "install", *std_cargo_args
-    bin.install "webex-tui"
+    bin.install "target/release/webex-tui"
   end
 end
