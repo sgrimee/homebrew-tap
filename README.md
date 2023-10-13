@@ -1,10 +1,10 @@
-# Sgrimee Webex-tui
+# Webex-tui
 
 ## How do I install these formulae?
 
-`brew install sgrimee/webex-tui/<formula>`
+`brew install sgrimee/webex-tui/webex-tui`
 
-Or `brew tap sgrimee/webex-tui` and then `brew install <formula>`.
+Or `brew tap sgrimee/webex-tui` and then `brew install webex-tui`.
 
 ## Documentation
 
