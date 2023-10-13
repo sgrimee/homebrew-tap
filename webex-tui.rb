@@ -5,9 +5,7 @@ class WebexTui < Formula
   sha256 "a194db07126c03cd95a270cd446d66f40e68c63ef88bfa2e2016d9b0796311f3"
   license "MIT"
 
-
   def install
     bin.install "webex-tui"
   end
-
 end
