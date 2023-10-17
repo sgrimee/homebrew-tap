@@ -1,10 +1,12 @@
-# Webex-tui
+# Sam's homebrew tap
+
+This includes my modest contribution to homebrew formulae.
 
 ## How do I install these formulae?
 
-`brew install sgrimee/webex-tui/webex-tui`
+`brew install sgrimee/tap/webex-tui`
 
-Or `brew tap sgrimee/webex-tui` and then `brew install webex-tui`.
+Or `brew tap sgrimee/tep` and then `brew install webex-tui`.
 
 ## Documentation
 
