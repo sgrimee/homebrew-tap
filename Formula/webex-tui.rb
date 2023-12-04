@@ -1,8 +1,8 @@
 class WebexTui < Formula
   desc "Unofficial minimal Webex chat client for the terminal"
   homepage "https://github.com/sgrimee/webex-tui"
-  url "https://github.com/sgrimee/webex-tui/archive/refs/tags/v0.4.6.tar.gz"
-  sha256 "09b54e57340ec34cd383aa2e38c1ebe1cc6f97c3fb3039692792fee726d88a00"
+  url "https://github.com/sgrimee/webex-tui/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "970af8c8b2009ee74ed79f673e2ac44d16c881dfd4a5df35014cf5ef43e4d5c5"
   license "MIT"
 
   depends_on "rust" => :build
